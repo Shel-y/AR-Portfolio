@@ -1,6 +1,6 @@
 # ✨ Portafolio de Realidad Aumentada
 
-Este repositorio presenta una selección de mis proyectos de **Realidad Aumentada (AR)**, desarrollados para **diversos clientes y eventos**, usando herramientas como **Meta Spark** (actualmente descontinuado), **Lens Studio** y **Effect House**.  
+Este repositorio presenta una selección de mis proyectos de **Realidad Aumentada (AR)**, desarrollados para **diversos clientes y eventos**, usando herramientas como **Meta Spark** (actualmente descontinuado).
 Cada proyecto incluye videos, documentación detallada y algunos assets originales creados por mí, como elementos 2D y música.
 
 Los efectos fueron diseñados utilizando técnicas avanzadas de **visual scripting**, **occlusion**, **plane tracker**, **face tracker**, **screen segmentation**, **segmentación de objetos**, y otros recursos de interacción inmersiva, demostrando la convergencia de **arte, tecnología y creatividad**.
